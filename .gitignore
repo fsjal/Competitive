@@ -1,0 +1,8 @@
+**/Debug/*
+.vs/* 
+Competitive/Competitive.aps
+Competitive/Competitive.rc
+Competitive/Competitive.vcxproj
+Competitive/Competitive.vcxproj.filters
+Competitive/Competitive.vcxproj.user
+Competitive.sln
